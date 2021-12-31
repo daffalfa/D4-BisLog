@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">D-IV Bisnis Logistik</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bisnis Logistik</string>
+    <string name="nav_header_subtitle">Phone: +62227798418</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_staff">Staff</string>
+    <string name="menu_kurikulum">Kurikulum</string>
+    <string name="menu_lulusan">Metode Pembelajaran</string>
+    <string name="menu_kompetensi">Kompetensi Lulusan</string>
+</resources>
