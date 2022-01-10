@@ -5,8 +5,8 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "BisLogis.example.projectPerancis"
-        minSdkVersion 27
+        applicationId "BISLOG.example.app"
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"

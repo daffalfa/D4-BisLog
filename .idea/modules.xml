@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProjectInggris.iml" filepath="$PROJECT_DIR$/.idea/modules/ProjectInggris.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProjectInggris.BisLogis.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProjectInggris.BisLogis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProjectInggris.BISLOG.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProjectInggris.BISLOG.iml" />
     </modules>
   </component>
 </project>

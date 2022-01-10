@@ -11,7 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/BisLogis" />
+            <option value="$PROJECT_DIR$/BISLOG" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
